@@ -19,8 +19,8 @@ package cmd
 import (
 	"context"
 
-	rakkess "github.com/willbtlr/rakkess/internal"
-	"github.com/willbtlr/rakkess/pkg/constants"
+	rakkess "github.com/willbtlr/rakkess/rakkess"
+	"github.com/willbtlr/rakkess/constants"
 	"github.com/spf13/cobra"
 	"k8s.io/klog/v2"
 )

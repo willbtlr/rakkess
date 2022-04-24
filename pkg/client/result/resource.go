@@ -20,7 +20,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/willbtlr/rakkess/pkg/printer"
+	"github.com/willbtlr/rakkess/printer"
 )
 
 // ResourceAccess holds the access result for all resources.
