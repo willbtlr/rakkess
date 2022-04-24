@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/willbtlr/rakkess/internal/options"
+	"github.com/willbtlr/rakkess/pkg/options"
 	openapi_v2 "github.com/googleapis/gnostic/openapiv2"
 	"github.com/stretchr/testify/assert"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

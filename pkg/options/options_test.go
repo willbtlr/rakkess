@@ -19,7 +19,7 @@ package options
 import (
 	"testing"
 
-	"github.com/willbtlr/rakkess/internal/constants"
+	"github.com/willbtlr/rakkess/pkg/constants"
 	"github.com/stretchr/testify/assert"
 	"k8s.io/cli-runtime/pkg/genericclioptions"
 )

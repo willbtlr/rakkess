@@ -19,8 +19,8 @@ package client
 import (
 	"context"
 
-	"github.com/willbtlr/rakkess/internal/client/result"
-	"github.com/willbtlr/rakkess/internal/options"
+	"github.com/willbtlr/rakkess/pkg/client/result"
+	"github.com/willbtlr/rakkess/pkg/options"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	clientv1 "k8s.io/client-go/kubernetes/typed/rbac/v1"
 	"k8s.io/klog/v2"

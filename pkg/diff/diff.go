@@ -20,8 +20,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/willbtlr/rakkess/internal/client/result"
-	"github.com/willbtlr/rakkess/internal/printer"
+	"github.com/willbtlr/rakkess/pkg/client/result"
+	"github.com/willbtlr/rakkess/pkg/printer"
 	"k8s.io/klog/v2"
 )
 

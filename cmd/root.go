@@ -23,9 +23,9 @@ import (
 	"strings"
 
 	rakkess "github.com/willbtlr/rakkess/internal"
-	"github.com/willbtlr/rakkess/internal/constants"
-	"github.com/willbtlr/rakkess/internal/diff"
-	"github.com/willbtlr/rakkess/internal/options"
+	"github.com/willbtlr/rakkess/pkg/constants"
+	"github.com/willbtlr/rakkess/pkg/diff"
+	"github.com/willbtlr/rakkess/pkg/options"
 	"github.com/spf13/cobra"
 	"k8s.io/klog/v2"
 )

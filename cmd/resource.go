@@ -20,7 +20,7 @@ import (
 	"context"
 
 	rakkess "github.com/willbtlr/rakkess/internal"
-	"github.com/willbtlr/rakkess/internal/constants"
+	"github.com/willbtlr/rakkess/pkg/constants"
 	"github.com/spf13/cobra"
 	"k8s.io/klog/v2"
 )

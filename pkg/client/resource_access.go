@@ -20,7 +20,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/willbtlr/rakkess/internal/client/result"
+	"github.com/willbtlr/rakkess/pkg/client/result"
 	v1 "k8s.io/api/authorization/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/util/sets"
