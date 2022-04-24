@@ -19,7 +19,7 @@ package result
 import (
 	"testing"
 
-	"github.com/corneliusweig/rakkess/internal/constants"
+	"github.com/willbtlr/rakkess/internal/constants"
 	"github.com/stretchr/testify/assert"
 	v1 "k8s.io/api/rbac/v1"
 	"k8s.io/apimachinery/pkg/util/sets"
